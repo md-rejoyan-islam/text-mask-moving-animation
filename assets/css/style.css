@@ -3,6 +3,8 @@
     font-weight: 900;
     background-image: url('https://images.hdqwalls.com/wallpapers/sea-beach-sunset-4k-e0.jpg');
     background-clip: text;
+    -webkit-background-clip: text;
+     /*  background-repeat: repeat; , don't support all browser,for that use -webkit-background-clip: text;    */
     background-repeat: repeat;
     background-size: 50% ;
    background-position: 40% 50%;
@@ -17,6 +19,8 @@
     background-image: url('https://images.hdqwalls.com/wallpapers/sea-beach-sunset-4k-e0.jpg');
     background-clip: text;
     background-repeat: repeat;
+    -webkit-background-clip: text;   
+    /*  background-repeat: repeat; , don't support all browser,for that use -webkit-background-clip: text;    */
     background-size: 50% ;
    background-position: 40% 50%;
    text-align: center;
