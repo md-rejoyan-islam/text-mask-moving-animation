@@ -9,3 +9,5 @@
 * mousemove event
 * e.clientX
 * e.clientY
+* window.outerWidth
+* window.outerHight
