@@ -1,5 +1,7 @@
 const light=document.querySelector('.light')
 const dark=document.querySelector('.dark')
+
+
 dark.onmousemove=(e)=>{
     const w=window.outerWidth
     const h=window.outerHeight
