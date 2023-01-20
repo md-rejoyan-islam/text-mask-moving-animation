@@ -13,4 +13,4 @@
 * window.outerHight
 
 ### Live Website Link
-<a href=''>Click</a>
+<a href='https://rejoyanislam.github.io/text-mask-moving-animation/'>Click</a>
