@@ -20,5 +20,5 @@ const y=e.clientY
 document.querySelector("h2").style.backgroundPosition = `${(x / w) * 100}%  ${
   (y / h) * 100
 }%`;
-console.log(y/h);
+
 }
